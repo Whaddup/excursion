@@ -1,4 +1,16 @@
+h1 {font-size: 50px; }
+h2 { font-size: 42px; }
+p#details {font-size: 21px;
+color: gray;}
+
 body {font-family: verdana;
 color: white;
 background-color: black;
 text-align: center;}
+
+.urllink {color: aquamarine;
+font-size: 16px;}
+
+#footer{text-align: right;
+color: gray;
+font-size: 21px;}
